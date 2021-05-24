@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1099437862100",
+    "firebase_url": "https://marketim-gazi-default-rtdb.firebaseio.com",
+    "project_id": "marketim-gazi",
+    "storage_bucket": "marketim-gazi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099437862100:android:d3df16c31561ffdc9b1f41",
+        "android_client_info": {
+          "package_name": "com.edanrylmaz.onlinemarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099437862100-4gc0hjsskq0vbphea1msvc8ghtkj47eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_8gHOjEWkfIBef58UJzueOdvOFP6wyjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099437862100-4gc0hjsskq0vbphea1msvc8ghtkj47eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099437862100:android:11a8115e4bab26af9b1f41",
+        "android_client_info": {
+          "package_name": "com.example.marketcilent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099437862100-4gc0hjsskq0vbphea1msvc8ghtkj47eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_8gHOjEWkfIBef58UJzueOdvOFP6wyjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099437862100-4gc0hjsskq0vbphea1msvc8ghtkj47eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099437862100:android:689b57d24ff201f19b1f41",
+        "android_client_info": {
+          "package_name": "com.example.marketmanaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099437862100-4gc0hjsskq0vbphea1msvc8ghtkj47eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_8gHOjEWkfIBef58UJzueOdvOFP6wyjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099437862100-4gc0hjsskq0vbphea1msvc8ghtkj47eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

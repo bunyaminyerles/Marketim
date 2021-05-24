@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/category"
+        android:icon="@drawable/ic_baseline_category_24"
+        android:title="Kategori"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/product"
+        android:icon="@drawable/ic_baseline_extension_24"
+        android:title="Ürünler"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/courier"
+        android:icon="@drawable/ic_baseline_moped_24"
+        android:title="Kurye"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Profil"
+        app:showAsAction="always" />
+
+
+</menu>
